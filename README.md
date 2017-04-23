@@ -1,2 +1,2 @@
 # soap-client-server
-Example of SoapService usin Java (client and server)
+Example of SoapService using Java with calculator (client and server)
